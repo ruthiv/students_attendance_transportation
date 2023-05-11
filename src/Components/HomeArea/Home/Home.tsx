@@ -51,7 +51,7 @@ function Home(): JSX.Element {
             >
                 <Tabs
                     orientation="vertical"
-                    variant="scrollable"
+                    variant="scrollable"jjvhvjvv
                     value={value}
                     onChange={handleChange}
                     aria-label="Vertical tabs example"
